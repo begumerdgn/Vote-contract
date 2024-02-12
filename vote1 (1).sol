@@ -5,7 +5,8 @@ contract voting{
 
     enum Gender{
         Female,
-        Male
+        Male,
+        None
     }
 
     struct Person{
